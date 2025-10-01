@@ -10,3 +10,6 @@ Press the arrows on the left to move and the button on the right to shoot.
 
 ### PC
 Press the arrow buttons to move and the spacebar to shoot.
+
+## Demo
+[![Mini Pang Demo](https://img.youtube.com/vi/qpTBx8AcJuY/0.jpg)](https://www.youtube.com/watch?v=qpTBx8AcJuY)
